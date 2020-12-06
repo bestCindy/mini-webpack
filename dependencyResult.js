@@ -1,0 +1,1 @@
+let newObj = JSON.parse('{"./test2.js":"./test2.js"}'); console.log(newObj);
