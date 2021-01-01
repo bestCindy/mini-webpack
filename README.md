@@ -33,7 +33,7 @@ yarn add @babel/parser @babel/traverse @babel/core @babel/preset-env
 #### （三）将抽象语法树转换成浏览器可以运行的代码
 - 代码在 convertToCode.js 里面
 
-#### (四) 遍历 dependencies 找到所有的依赖获取依赖图普
+#### (四) 遍历 dependencies 找到所有的依赖获取依赖图谱
 - 代码在 makeDependenciesGraph.js 里面
 
 #### （五）生成代码
